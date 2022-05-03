@@ -3,4 +3,4 @@
 
 Foi desenvolvido somente a página inicial, futuramente como metodologia de treino, as demais abas serão criadas.
 
-Todas as imagens, textos e icones copiados fora usados somente para fins educativos. Nenhuma delas será comercializada tendo em vista os direitos autorais
+Todas as imagens, textos e icones copiados foram usados somente para fins educativos. Nenhuma delas será comercializada tendo em vista os direitos autorais
